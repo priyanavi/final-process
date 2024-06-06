@@ -1,0 +1,3 @@
+20240406	13:58:15	ac14ca02-4102-4838-876a-7e51dacd9e9f	Error	Not allowed by cors
+20240406	13:58:15	b00ae66f-0663-476f-a84f-8dff5e986a66	Error	Not allowed by cors
+20240406	14:41:08	abb58340-d697-45ec-a13e-007f79aa307b	TypeError	Cannot read properties of undefined (reading 'firstname')
