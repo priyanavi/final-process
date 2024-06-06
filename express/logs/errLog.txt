@@ -1,0 +1,29 @@
+02-04-2024	10:04:10	e89ec6af-c2db-440f-bf17-1e8594ef2da6	TypeError:whitelist.indexO is not a function
+02-04-2024	10:04:10	78f17609-b4f3-465a-ac25-b515ebc7436a	TypeError:whitelist.indexO is not a function
+02-05-2024	10:05:17	9e1505b8-a048-45d1-abec-919999ad7d60	TypeError:whitelist.indexO is not a function
+02-05-2024	10:05:17	0115b5d1-f3cf-461e-8e48-36c79cf8bdf4	TypeError:whitelist.indexO is not a function
+02-31-2024	10:31:07	f69a7f6a-c0a1-4a94-aacd-1af2402076b6	TypeError:req.statusCode is not a function
+02-33-2024	10:33:58	406a0c96-1ad9-4bd2-9cfb-d88f2598bca7	TypeError:req.statusCode is not a function
+02-33-2024	10:33:59	4e9e4f8a-3864-4789-8b92-2c69fd7352c3	TypeError:req.statusCode is not a function
+02-33-2024	10:33:59	9c72b3b9-76d2-462a-a480-afc72506e3c6	TypeError:req.statusCode is not a function
+02-33-2024	10:33:59	c767f436-10c3-42c7-bed2-d6975cfd6e04	TypeError:req.statusCode is not a function
+02-34-2024	10:34:04	6ca2d049-de33-4521-94a7-dcfc6c1c77d2	TypeError:req.statusCode is not a function
+02-36-2024	10:36:14	855157b9-b4c8-44dd-94a0-1fda61c0f1b9	TypeError:req.statusCode is not a function
+02-39-2024	10:39:08	e0c69c55-f979-4301-b0c0-cf2f113219e6	TypeError:req.statusCode is not a function
+02-39-2024	10:39:09	4351ffa7-f232-4868-8e36-5242b8212231	TypeError:req.statusCode is not a function
+02-39-2024	10:39:16	558bb992-6b54-47bd-b5a3-fa7118f62ec3	TypeError:req.statusCode is not a function
+02-05-2024	11:05:47	3c87bcd9-0a7d-404a-9f9c-3cbaa1a88809	TypeError:req.statusCode is not a function
+02-07-2024	11:07:08	cce8ec48-5803-4ff3-8a7a-c847e5f963b9	TypeError:req.status is not a function
+02-07-2024	11:07:11	d2546902-f18b-4070-94ce-b84b46186915	TypeError:req.status is not a function
+02-08-2024	11:08:49	6272c1e2-781a-4b40-b571-c616d8f869d5	TypeError:req.statusCode is not a function
+02-20-2024	11:20:24	7ecaeb89-47fb-4abd-8558-71e61c483c62	Error:not allowed by CORS
+02-20-2024	11:20:24	b3c2206d-2859-4cab-ad25-047ac04c4daf	Error:not allowed by CORS
+02-07-2024	12:07:36	fcf1aa66-8e41-40b5-a521-4990e01ff1ba	Error:ENOENT: no such file or directory, stat 'C:\Users\Welcome\express\files\404.html'
+02-11-2024	12:11:24	d064e4ad-89b7-4e4b-9cdc-af3d2eba1a10	Error:ENOENT: no such file or directory, stat 'C:\Users\Welcome\express\files\index.html'
+02-11-2024	12:11:25	392dc201-d639-4dbc-b860-2a0fe5e26199	Error:ENOENT: no such file or directory, stat 'C:\Users\Welcome\express\files\index.html'
+02-15-2024	12:15:13	808fcd35-2731-4e4a-af35-e504265f737a	Error:ENOENT: no such file or directory, stat 'C:\Users\Welcome\express\files\index.html'
+02-15-2024	12:15:23	2f4b72a6-fb9e-470c-8991-21601ec4dd7b	Error:ENOENT: no such file or directory, stat 'C:\Users\Welcome\express\files\index.html'
+02-15-2024	12:15:24	49faa829-6b04-498d-8d73-e92fcbabe8f3	Error:ENOENT: no such file or directory, stat 'C:\Users\Welcome\express\files\index.html'
+02-15-2024	12:15:24	a0c1d7b8-8c29-48e7-8296-ab7372966d20	Error:ENOENT: no such file or directory, stat 'C:\Users\Welcome\express\files\index.html'
+02-25-2024	12:25:19	91423eb8-4b29-47b8-b2d2-31c966604154	Error:ENOENT: no such file or directory, stat 'C:\Users\Welcome\express\files\index.html'
+02-25-2024	12:25:45	890616e9-f86b-4c09-b53c-bff376195efa	Error:ENOENT: no such file or directory, stat 'C:\Users\Welcome\express\files\index.html'
