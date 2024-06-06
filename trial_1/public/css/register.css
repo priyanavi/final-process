@@ -1,0 +1,75 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 20px;
+    padding: 50px;
+    background-image: url('../image/hello.jpg'); /* Replace 'background-image.jpg' with the path to your background image */
+    background-size: cover;
+    background-position: center;
+}
+
+.container {
+    width: 80%;
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: rgba(255, 255, 255, 0.8); /* Use rgba for background color with transparency */
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="tel"],
+button {
+    margin-bottom: 20px;
+    padding: 8px;
+    border: 3px solid #ccc;
+    border-radius: 20px;
+    font-size: 16px;
+    background-color: rgba(255, 255, 255, 0.9); /* Use rgba for input background color with transparency */
+}
+
+/* button {
+    background-color:rgb(41, 11, 239);
+    color: #fff;
+    cursor: pointer;
+    padding: 5px 20px;
+    
+} */
+
+button {
+    background-color:rgb(41, 11, 239); /* Blue background color */
+    color: white; /* White text color */
+    padding: 10px 20px; /* Padding */
+    border: none; /* No border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Cursor style */
+    font-size: 16px; /* Font size */
+    margin:20px 180px;
+}
+button:hover {
+    background-color: #0056b3;
+}
+
+input:focus,
+button:focus {
+    outline: none;
+    border-color: #007bff;
+    /* box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); */
+    box-shadow: 0 0 1px rgba(0, 123, 255, 0.5);
+}
+

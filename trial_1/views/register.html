@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+    <link rel="stylesheet" href='/css/register.css'>
+</head>
+<body>
+    <div class="container">
+        <h1>Register</h1>
+        <form action="/register" method="post">
+            <input type="text" name="username" placeholder="Enter your username" required>
+            <input type="password" name="password" placeholder="Enter your password" required>
+            <input type="email" name="email" placeholder="Enter your email" required>
+            <input type="tel" name="phone" placeholder="Enter your phone number" required>
+            <button type="submit">Register</button>
+        </form>
+    </div>
+     <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const registrationForm = document.getElementById('registrationForm');
+
+            registrationForm.addEventListener('submit', async (event) => {
+                event.preventDefault();
+
+                const formData = new FormData(registrationForm);
+                const response = await fetch('/register', {
+                    method: 'POST',
+                    body: formData
+                });
+
+                const data = await response.json();
+                if (data.success) {
+                    // Registration successful
+                    alert(data.message);
+                } else {
+                    // User already registered
+                    alert(data.message);
+                }
+            });
+        });
+    </script>
+</body>
+</html>
